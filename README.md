@@ -1,9 +1,7 @@
 # Data-Professional-Survey-Power-Bi-Project
-Learning-
-Data loading to Power bI desktop then Transform the data in Power querry 
-Data cleaning in Powewr Bi like -Revoing duplicates ,Adding new custom column for calculation 
-After transfrom and Data cleaning ,load data into  power Bi dashboard view for making dashboard report using different charts,slicer etc.
+Data set is all about earnings of Data Professional as Analyst ,Scientist ,data engineers in different countries.
 
+ Learning- Data loading to Power bi desktop then Transform the data in Power querry Data cleaning in Power Bi like -Removing duplicates ,Adding new custom column for calculation After transform and Data cleaning ,load data into power Bi dashboard view for making dashboard report using different charts, slicer etc.
 Task pefrom steps are-
 
 let
